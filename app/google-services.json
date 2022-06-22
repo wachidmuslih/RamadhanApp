@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689538019435",
+    "project_id": "ramadhanapp-e82eb",
+    "storage_bucket": "ramadhanapp-e82eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689538019435:android:b877cba8b5429abf3b412e",
+        "android_client_info": {
+          "package_name": "com.example.ramadhanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689538019435-6dharnmts0c8j1d0ttkra9tda631nrvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2mXLIWiENpAIoaV9o71F4hIqkj-Vu5-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689538019435-6dharnmts0c8j1d0ttkra9tda631nrvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

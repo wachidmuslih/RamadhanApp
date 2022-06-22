@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp"
+    app:cardCornerRadius="6dp"
+    app:cardElevation="3dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvHariSalat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hari"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvSubuh"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Salat Subuh" />
+
+        <TextView
+            android:id="@+id/tvDzuhur"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Salat Dzuhur" />
+
+        <TextView
+            android:id="@+id/tvAshar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Salat Ashar" />
+
+        <TextView
+            android:id="@+id/tvMagrib"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Salat Magrib" />
+
+        <TextView
+            android:id="@+id/tvIsya"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Salat Isya" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
